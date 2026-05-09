@@ -34,7 +34,7 @@ function Header() {
         <img src="assets/cool-services-logo.png" alt="Cool Services"/>
         <div className="div"></div>
         <div className="meta">
-          <span className="eyebrow">Agence Immobilière · Abidjan</span>
+          <span className="eyebrow">Agence Immobilière · Korhogo</span>
           <h1>Villa Basse <em>6 Pièces</em> · Plan d'Implantation</h1>
           <span className="sub">Style architectural <b>Ibiza</b> — murs blancs épais, lignes douces, ouvertures généreuses sur le jardin tropical.</span>
         </div>
@@ -144,7 +144,7 @@ function Foot() {
     <div className="foot">
       <div>
         <span className="stamp">Cool Services · Agence Immobilière</span><br/>
-        Boulevard Latrille, Cocody · Abidjan, Côte d'Ivoire — contact@coolservices.ci · +225 27 22 00 00 00
+        la rotonde· Korhogo, Côte d'Ivoire — contact@coolservicesagenceimmobilière-ci.com · +225 05 74 24 28 51
       </div>
       <div className="right">
         <span><b>Plan</b> 01/04</span>
