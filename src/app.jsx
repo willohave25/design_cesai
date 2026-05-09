@@ -149,7 +149,7 @@ function Foot() {
       <div className="right">
         <span><b>Plan</b> 01/04</span>
         <span><b>Date</b> 09 / 05 / 2026</span>
-        <span><b>Dressé par</b> Atelier CS</span>
+        <span><b>Dressé par</b> Atelier CESAI</span>
       </div>
     </div>
   );
